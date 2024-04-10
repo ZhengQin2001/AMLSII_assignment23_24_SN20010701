@@ -25,9 +25,11 @@ To set up the environment for running the code, please follow these steps:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Usage
 
 To start training the models, simply run the main script:
 ```bash
 python main.py
+```
